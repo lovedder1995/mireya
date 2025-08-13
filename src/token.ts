@@ -245,6 +245,31 @@ export const KeywordDescTable = [
 ];
 
 export const descKeywordTable: { [key: string]: Token } =  {
+  El: Token.LetKeyword,
+  La: Token.LetKeyword,
+  Los: Token.LetKeyword,
+  Las: Token.LetKeyword,
+  Cuando: Token.LetKeyword,
+  En_este_bloque: Token.LetKeyword,
+
+  Finalmente: Token.ReturnKeyword,
+
+  Si: Token.IfKeyword,
+  y: Token.IfKeyword,
+  pero: Token.IfKeyword,
+  sí: Token.TrueKeyword,
+  no: Token.FalseKeyword,
+  nada: Token.NullKeyword,
+  hacemos_este_procedimiento: Token.FunctionKeyword,
+  este_procedimiento: Token.FunctionKeyword,
+  importamos: Token.ImportKeyword,
+  desde: Token.FromKeyword,
+  exportamos: Token.ExportKeyword,
+  predeterminadamente: Token.DefaultKeyword,
+  Intentamos_esto: Token.TryKeyword,
+  Si_falla: Token.CatchKeyword,
+  el_tipo_de: Token.TypeofKeyword,
+
   this: Token.ThisKeyword,
   function: Token.FunctionKeyword,
   if: Token.IfKeyword,

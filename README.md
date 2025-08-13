@@ -1,3 +1,31 @@
+<h1 align="center">Mireya</h1>
+Mireya es una bifurcación Meriyah con palabras clave alternativas en español:
+
+- El : let
+- La : let
+- Los : let
+- Las : let
+- Cuando : let
+- En_este_bloque : let
+
+- Finalmente: return
+
+- Si: if
+- y : if
+- pero : if
+- sí : true
+- no : false
+- nada : null
+- hacemos_este_procedimiento : function
+- este_procedimiento : function
+- importamos : import
+- desde : from
+- exportamos : export
+- predeterminadamente : default
+- Intentamos_esto : try
+- Si_falla : catch
+- el_tipo_de : typeof
+
 <h1 align="center">Meriyah</h1>
 
 <p align="center"> 100% compliant, self-hosted javascript parser with high focus on both performance and stability. Stable and already used in production.</p>
