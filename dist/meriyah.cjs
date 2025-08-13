@@ -854,7 +854,7 @@ const descKeywordTable = {
     exportamos: 20564,
     predeterminadamente: 20561,
     Intentamos_esto: 20577,
-    Si_falla: 20557,
+    Hacemos_esto_si_falla: 20557,
     el_tipo_de: 16863275,
     this: 86111,
     function: 86104,

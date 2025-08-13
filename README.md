@@ -23,7 +23,7 @@ Mireya es una bifurcación de Meriyah con palabras clave alternativas en españo
 - exportamos : export
 - predeterminadamente : default
 - Intentamos_esto : try
-- Si_falla : catch
+- Hacemos_esto_si_falla : catch
 - el_tipo_de : typeof
 
 <h1 align="center">Meriyah</h1>
