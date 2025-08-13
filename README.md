@@ -1,5 +1,5 @@
 <h1 align="center">Mireya</h1>
-Mireya es una bifurcación Meriyah con palabras clave alternativas en español:
+Mireya es una bifurcación de Meriyah con palabras clave alternativas en español:
 
 - El : let
 - La : let
