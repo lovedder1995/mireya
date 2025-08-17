@@ -268,7 +268,10 @@ export const descKeywordTable: { [key: string]: Token } =  {
   predeterminadamente: Token.DefaultKeyword,
   Intentamos_esto: Token.TryKeyword,
   Hacemos_esto_si_falla: Token.CatchKeyword,
-  el_tipo_de: Token.TypeofKeyword,
+  el_tipo_del: Token.TypeofKeyword,
+  el_tipo_de_la: Token.TypeofKeyword,
+  el_tipo_de_los: Token.TypeofKeyword,
+  el_tipo_de_las: Token.TypeofKeyword,
 
   this: Token.ThisKeyword,
   function: Token.FunctionKeyword,
