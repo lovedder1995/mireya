@@ -253,10 +253,12 @@ export const descKeywordTable: { [key: string]: Token } =  {
   En_este_bloque: Token.LetKeyword,
 
   Finalmente: Token.ReturnKeyword,
+  Y_no_devolvemos_nada: Token.ReturnKeyword,
 
   Si: Token.IfKeyword,
   y: Token.IfKeyword,
   pero: Token.IfKeyword,
+
   sí: Token.TrueKeyword,
   no: Token.FalseKeyword,
   nada: Token.NullKeyword,
