@@ -257,6 +257,7 @@ export const descKeywordTable: { [key: string]: Token } =  {
   devolvemos: Token.ReturnKeyword,
   Y_no_devolvemos_nada: Token.ReturnKeyword,
 
+  Hay_casos_en_los_que: Token.IfKeyword,
   Si: Token.IfKeyword,
   y: Token.IfKeyword,
   pero: Token.IfKeyword,

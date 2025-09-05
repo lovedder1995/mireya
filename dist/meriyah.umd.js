@@ -848,6 +848,7 @@
       entonces: 20572,
       devolvemos: 20572,
       Y_no_devolvemos_nada: 20572,
+      Hay_casos_en_los_que: 20569,
       Si: 20569,
       y: 20569,
       pero: 20569,
