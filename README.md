@@ -10,6 +10,7 @@ Mireya es una bifurcación de Meriyah con palabras clave alternativas en españo
 
 - Finalmente : return
 - entonces : return
+- devolvemos: return
 - Y_no_devolvemos_nada : return
 
 - Si : if
