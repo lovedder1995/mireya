@@ -270,7 +270,7 @@ export const descKeywordTable: { [key: string]: Token } =  {
   este_procedimiento: Token.FunctionKeyword,
   importamos: Token.ImportKeyword,
   desde: Token.FromKeyword,
-  Devolvemos: Token.ExportKeyword,
+  Devolvemos_: Token.ExportKeyword,
   __: Token.DefaultKeyword,
   Intentamos_esto: Token.TryKeyword,
   Hacemos_esto_si_falla: Token.CatchKeyword,
